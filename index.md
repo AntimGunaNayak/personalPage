@@ -9,14 +9,14 @@ Hi, I'm **UltiMateAdder**. Check out all my repos!
 ---
 
 ## 🚀 Projects
-
+| Project Name | Web Page | Link |
 |--------------|----------|------|
 
-| prod-repo-backend | (https://antimgunanayak.github.io/prod-repo-backend/ != "no page" ? [WebPage](https://antimgunanayak.github.io/prod-repo-backend/): "No Page") | [GitHub](https://github.com/AntimGunaNayak/prod-repo-backend.git) |
+| prod-repo-backend | [WebPage](https://antimgunanayak.github.io/prod-repo-backend/) | [GitHub](https://github.com/AntimGunaNayak/prod-repo-backend.git) |
 
-| prod-repo-frontend | (https://antimgunanayak.github.io/prod-repo-frontend/ != "no page" ? [WebPage](https://antimgunanayak.github.io/prod-repo-frontend/): "No Page") | [GitHub](https://github.com/AntimGunaNayak/prod-repo-frontend.git) |
+| prod-repo-frontend | [WebPage](https://antimgunanayak.github.io/prod-repo-frontend/) | [GitHub](https://github.com/AntimGunaNayak/prod-repo-frontend.git) |
 
-| prod-repo-infra | (https://antimgunanayak.github.io/prod-repo-infra/ != "no page" ? [WebPage](https://antimgunanayak.github.io/prod-repo-infra/): "No Page") | [GitHub](https://github.com/AntimGunaNayak/prod-repo-infra.git) |
+| prod-repo-infra | [WebPage](https://antimgunanayak.github.io/prod-repo-infra/) | [GitHub](https://github.com/AntimGunaNayak/prod-repo-infra.git) |
 
 
 # Updated @2025
